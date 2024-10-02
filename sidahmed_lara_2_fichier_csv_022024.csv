@@ -1,0 +1,257 @@
+"id_salarié","Contrat","Durée hebdo","Augmentation","Promotion","Ancienneté_an","Service","Sexe","Enfants","Age","Salaire_total"
+"16e7b5240f76b24a125337ea094adb0259dae6dc","CDI",35,1,1,"11-16","Marketing","F",2,65,7440
+"1898f41b5a8afae57e5d958fec23ce8680922fb2","CDI",24,0,1,"11-16","Commercial","F",2,66,6566
+"61e7af940bbe51d31ad0df8069a1b909eab09e5e","CDI",32,1,1,"11-16","RH","F",3,50,10544
+"7d696df6c894924934d38b415f3bd3fdf0afe73b","CDI",35,1,0,"6-11","Compta Finances","F",1,42,9494
+"e501ded14334bc15092e5756bbc861a3eb629043","CDI",35,1,0,"6-11","Consultant","F",0,44,8546
+"bdc683c0d008bb4db76934b62982b9f288819dfa","CDI",35,1,0,"6-11","RH","F",1,57,9242
+"138b4a17bb7f04d00c089292ab1bad518d50e54d","CDI",35,1,0,"11-16","Commercial","H",2,52,2068
+"366fcd656b4aafdcea811cdb363837ef11e7e574","CDI",35,0,1,"0-6","Consultant","F",0,51,13500
+"bbb3039f6e948f30306123328bb214589c402bec","CDI",35,1,0,"16-21","Commercial","F",1,53,11052
+"3e556573fbf32d5ee1075811b025ee0fea0bc6eb","CDI",35,1,1,"21-25","Commercial","F",0,49,5653
+"b80f7fff806760b24476555f9626a9606cb07fad","CDI",35,1,0,"21-25","Consultant","F",1,58,11688
+"247def54da0057de5e35910ea498bc51cf159860","CDI",24,1,1,"6-11","RH","F",1,67,4447
+"e0e6293316a6eb460654ed9608c04b42d02fcd24","CDI",35,1,1,"21-25","Commercial","F",2,55,7150
+"4def7a00c764aeb9de1858cd0c27737a6b4a84e5","CDI",35,0,1,"16-21","RH","F",3,68,7358
+"99893f76301d38dbfa4a2a8f0f32d931fb00302d","CDI",35,1,0,"16-21","Compta Finances","H",0,67,3437
+"ca9af0ea1e39a9983f15133c687682041498eb1f","CDI",35,1,1,"21-25","Marketing","H",0,49,9843
+"05655a03cd19898e87c7de04f9253e29e1e5c614","CDI",28,1,1,"11-16","Consultant","H",3,61,3039
+"82d5059d65f47341762b4eda7404768881e7cb77","CDI",35,1,0,"11-16","Compta Finances","H",2,50,9381
+"d46d229e3a23556033f18930a364fc549928fd5c","CDD",35,,,"0-6","Compta Finances","F",3,38,2247
+"d28ee0411805eff94f0d5fb50e3209126fbd8b9e","CDI",35,1,1,"6-11","Consultant","F",3,59,10720
+"a88770f66c2529abc2e69a48837966643bf2f29b","CDI",35,0,0,"6-11","Consultant","F",1,62,4497
+"0b3965bf55d7df3ff12dcde7f06dd45515e124f5","CDI",24,0,1,"16-21","RH","F",2,57,3244
+"0fcacb76d41140c27c7efdec0fb7d3aacf64498b","CDI",28,1,1,"6-11","Marketing","H",2,37,9640
+"951a1118253f18326f28fc4c135f6ddb6c5c807d","CDD",35,,,"0-6","Consultant","F",3,39,2271
+"b51dfe5500059f5b0dd65ba69f7e987954b78136","CDI",35,1,1,"6-11","RH","F",1,42,8649
+"902cccf60a5b63f26a91a10df241a003940ed0c0","CDI",35,0,1,"0-6","RH","F",3,43,10408
+"09594914d4b95abb221bc3fe402140a0150fe54c","CDI",24,1,1,"16-21","Compta Finances","H",3,42,6583
+"17147a1f27047e78df5b5c01d80f7a6f36854d4e","CDI",35,1,1,"6-11","Compta Finances","H",0,43,4365
+"96a9fb0b0b507943393e78e19875caa3c6761bae","CDI",35,0,1,"16-21","Compta Finances","F",0,40,10020
+"f5ed1c1834f66d2435f16a5f3bef0d50e72565dd","CDI",35,0,0,"11-16","Commercial","H",0,60,6727
+"0c4d2f167f5f2633546087388fc819bb7fe57861","CDI",35,1,1,"11-16","Commercial","F",3,53,11112
+"ecf1d258f0c1ec66e91eb590ad8a2a1937996599","CDI",35,1,0,"11-16","Marketing","H",3,66,11653
+"6f98a145540461f45a90e80ee95fd99254fcc84c","CDI",35,1,0,"11-16","Commercial","H",3,39,6961
+"db1aef64eed26932a556f6d2ac480b5381868862","CDI",35,1,1,"21-25","Consultant","F",1,60,6083
+"b2312c0da1c050ddc0f4b34909b7e0d13ae43824","CDI",35,0,0,"0-6","Commercial","F",3,38,7181
+"53252d09d90a045c3c1c35bb454b506eb2aa3acb","CDI",35,1,0,"0-6","Commercial","F",2,52,6523
+"c0238699215ed21269e56439d151974936bd2328","CDI",35,1,0,"0-6","Consultant","H",3,69,3260
+"087635bdb960884bafa03bd67e83bd9f19c947e4","CDI",35,1,0,"11-16","Compta Finances","F",3,56,6127
+"5300602e940fbc1ea58b8c79dfcde4750840e5a7","CDI",35,1,1,"11-16","RH","F",2,61,3584
+"c503fa01356f273cfb52a43419b61e8b9805e6f7","CDI",35,0,0,"0-6","R&D","H",0,46,6559
+"42cd093d516852f9934cac623e17d10f62ccbdb7","CDI",35,1,1,"11-16","Compta Finances","F",0,49,9046
+"c1853da88f315435db7ef160ae68ff2bfa7acfb5","CDI",35,1,0,"0-6","Consultant","H",0,60,3210
+"4c6ab102cdc636e8de9ebe23886dee5da03e8e59","CDI",24,1,1,"11-16","RH","F",2,54,2959
+"8deb47f983562cf461a1aeba239f849137583b79","CDI",35,0,0,"16-21","Consultant","H",0,42,2895
+"f10b8eb8592abe99b4982cfb656f94121fc84181","CDI",35,1,0,"16-21","Commercial","H",2,52,8384
+"76b5bd44844bf0f65ce4356546df4c093c094a31","CDI",35,1,1,"16-21","Consultant","H",0,54,4056
+"10fd7797227c6cb9144a44918135a192686876d8","CDI",35,1,1,"16-21","Consultant","H",2,50,6225
+"b08e0d2160ef29b85f7edb9edbed27d946e4feb2","CDI",35,1,1,"21-25","Consultant","H",0,49,5601
+"77d45ee7f6846c0a125a735e8997ed1e15a9cadd","CDI",35,1,0,"6-11","Consultant","H",0,56,7103
+"4dd885c26caf344c116745f6b444c67e40a6e198","CDI",35,1,0,"11-16","Consultant","H",0,52,2106
+"de6681e7d5941a2d8222af749f95342b0bf761af","CDI",35,0,1,"16-21","Consultant","H",0,58,9135
+"416dd83918c58d7b149f4e74f9e334bc2a987f4e","CDI",35,0,1,"6-11","Compta Finances","F",0,43,4495
+"a67d8236d59b947f14928cf9bebe02259f57966b","CDI",24,1,1,"21-25","Compta Finances","F",1,58,4200
+"574974051db20b43112d93620125c9cbb897ad99","CDI",35,1,0,"0-6","RH","H",2,48,11466
+"f1ebe2b0a2a9a1c850a13168cb21065898b01d9e","CDI",35,0,0,"16-21","RH","H",0,61,11282
+"0077427e723efef77a56c50f8f7d34bc72855174","CDI",35,0,0,"6-11","Commercial","F",3,59,2841
+"22525f9eadb11e228a4a172e4f82e4450652beeb","CDI",35,0,0,"6-11","Marketing","F",1,49,9587
+"d4d8bc2c34d57f651cd30b54a058cf6de8be3394","CDI",35,0,0,"6-11","Consultant","H",2,64,5137
+"fd297da3113f8640eae3feb2e26b0ae2cf024806","CDI",35,1,0,"11-16","Compta Finances","F",0,50,10906
+"01f2276b1a19864b0b78ed37faa6234b1da9456d","CDI",35,0,0,"0-6","R&D","H",0,57,5786
+"d95c68ad64ca8e3d1f2d24483e9eb7894237b610","CDI",35,0,1,"11-16","Marketing","F",1,40,1886
+"5d7e9c056a7b6062ffd12bceb97ab1f856411da4","CDI",35,0,0,"0-6","RH","F",0,60,6751
+"abfee8607a99e98649a651a40c33a90ba0cd23dc","CDI",35,1,1,"0-6","Compta Finances","H",2,67,7689
+"6d5bd6bc2e8b7a12f943e06376ece42c51ec39f6","CDI",35,1,0,"6-11","R&D","H",2,55,10052
+"3eef0a1b5ec03d9a6f62d1f6f869f18b18ae196a","CDI",35,0,0,"11-16","Marketing","H",3,43,9700
+"27762010124b22a4e6c954c0942bbfda7c3f9b4a","CDI",35,0,1,"6-11","Consultant","F",1,43,2413
+"b700de82d3225546d48d76aa097695c765aa81ca","CDI",35,1,0,"0-6","Consultant","F",3,54,2367
+"5a3704b88843ed39f9a7daa1b6bed02cef8f47a2","CDI",35,1,0,"6-11","Consultant","F",3,51,7953
+"c5b4a4131f8dc24b1b18d011d9420c3e02d5a896","CDD",35,,,"0-6","Consultant","H",2,44,3122
+"76dbbb2605547383e34c8fd01a702a98ad09a135","CDI",35,0,1,"16-21","Marketing","H",1,69,4861
+"94c1402d9e58586a2f30c342f65fdc972c0d0461","CDI",35,1,1,"11-16","Commercial","H",0,60,13094
+"3ee48ab4a453a26d6cb7983b483700fafef209fb","CDI",35,1,1,"6-11","Compta Finances","F",0,57,5844
+"53b1f6c0f4ae0481fac30392886c09611641d7e0","CDI",35,0,0,"16-21","RH","F",0,51,8380
+"2c0ae8469fb188818b6104d44879e346ccaeb970","CDI",24,0,1,"21-25","R&D","H",2,63,4665
+"797d561dc368554a6563cafc40998e1d1a2d4157","CDI",35,1,0,"11-16","Commercial","H",3,60,9488
+"29987d3a0d7ae4ff071dcef70a630b5daf0a6d7a","CDI",35,1,0,"11-16","RH","F",0,60,7043
+"6314bcbc6050b0dba6c599cffdb01b77f707867a","CDI",35,0,0,"0-6","Commercial","F",1,65,2774
+"8ec10de157485d1501ad86ce37da081a18846111","CDI",35,1,0,"11-16","Commercial","F",1,41,11466
+"6031ae190446c5cef95bba871226d611e2eb5193","CDI",35,0,0,"16-21","Commercial","H",3,44,7954
+"2128f3824eef2f842dc023f5743ddf3390f6d848","CDI",24,1,1,"6-11","Commercial","F",0,59,5713
+"3d1a092710b15869b80cb82d6eee50ab0d63061e","CDI",32,0,0,"21-25","Compta Finances","F",3,49,7013
+"81135ded1c95f236d187e410dc1d3720bc339ef4","CDI",24,0,0,"21-25","R&D","H",2,56,7229
+"cf118572cdb80be89063a1ffec9860194a91ef94","CDI",35,0,0,"21-25","Commercial","H",3,57,3423
+"a0692c99411b77964d795677b14ab23df6822877","CDI",35,1,1,"0-6","Compta Finances","H",2,47,2098
+"f5992e55287c123f109d40d291173164a05cd6f0","CDI",35,1,1,"21-25","Commercial","F",3,64,4143
+"293611376bbfc432d7f271f1b9570a8f8f9c735d","CDI",35,1,1,"0-6","Compta Finances","F",2,39,5625
+"e726eec9ca040b4e343d44143267ee184535f0e5","CDI",35,0,0,"0-6","Compta Finances","F",1,34,2711
+"afcd07b9ca6c9d86e17b867b5630fc69a78e1222","CDI",35,0,1,"6-11","Commercial","F",3,39,10329
+"20d5d8866508f4ff5488a89c0d64a69319235cec","CDI",35,1,1,"21-25","R&D","H",3,49,8037
+"ed5dabaa65803b5c6db31df304550148c372a992","CDI",35,1,0,"6-11","Marketing","F",2,46,5097
+"50f26235019721ec0c094ba35a291c15d47e185a","CDI",24,0,1,"16-21","RH","H",0,63,3474
+"8590d01dca422e4cf2f72a3a63f5fa5106362035","CDI",35,0,0,"21-25","RH","F",1,58,4709
+"ec00cd5178b7f76bee0011bfee0633cd2d57fcde","CDI",35,0,1,"21-25","RH","H",3,63,6244
+"ecbc279eb5ae1bd8569a970f6ad83b819a750e03","CDI",35,0,1,"11-16","Marketing","H",1,63,4585
+"979775c97c4152ea1c84ea0404815f5309ccd7a1","CDI",35,1,0,"0-6","Consultant","H",1,45,7902
+"0f3f0eb1bcb0e342741139fa46d94048b47ff981","CDI",35,1,0,"16-21","Commercial","H",2,58,9945
+"f4dbc461590e8552902cedac8d899ac0b724eded","CDI",35,0,1,"16-21","Consultant","H",3,59,5837
+"7c9bb72d1993e419f4efb2f9d22e715efe1bf125","CDI",35,1,0,"6-11","Compta Finances","F",1,64,9349
+"0683b784b1cff807b083336d655f34b14d9278d0","CDI",35,0,1,"11-16","RH","F",3,61,4833
+"825600f4e4674d9709ecd7a58131e940b3adad35","CDI",35,0,1,"11-16","RH","H",1,38,3921
+"aaf060614d16f8f7f16a95c884fec9437776bed7","CDI",35,0,1,"6-11","RH","H",2,42,9793
+"aee53f507dd2f6ac26a28010041f8b707ce8d6c7","CDI",28,1,0,"6-11","Consultant","H",0,50,5607
+"6f42e67f7dc3798b1fd0f30a2366e91b1273b1dd","CDI",35,0,1,"16-21","Consultant","F",2,49,2654
+"cfc5ca0f6f66bdd6bac6b09fee942ed0cc71ce5a","CDI",35,0,1,"6-11","Compta Finances","H",3,66,11914
+"0b336854485c80f79299c7fb6adafd0cf71e84df","CDI",35,0,0,"16-21","Consultant","F",1,66,7844
+"3d31166350d53536fc76b141f0ed3860072a8953","CDI",35,0,0,"6-11","Marketing","F",3,60,4363
+"b57e24eefcb85322d0b3d6f37de1a1b7b9ee3e2b","CDI",35,0,0,"21-25","Consultant","H",0,46,5044
+"7fd5bd10f96a899cbe43e744ed0a52e9b40e8c13","CDI",35,1,0,"6-11","Consultant","H",3,43,4838
+"3427dbfbb220bed16ca1597f99e7ce958b87ef0b","CDI",35,1,0,"21-25","RH","F",3,52,10713
+"6a822aa0808ec3200184137d1237686dee1798cd","CDI",35,1,1,"0-6","Consultant","H",3,58,5918
+"403856c15b475ec907eb5d6e93c78f5fc7921c35","CDI",35,1,0,"16-21","Commercial","F",1,42,4239
+"0c1fa34157482fcd132a439ad1acc32ec547f6b2","CDD",32,,,"0-6","Consultant","H",1,57,2640
+"250739223342d2087e1c438294685819c6c24d35","CDI",35,0,1,"6-11","RH","F",3,55,5617
+"a6e0255527854f3e24f251a39128cdc1ba3d3f10","CDD",35,,,"0-6","Marketing","H",2,46,4579
+"e83dc1d778a033def317bf91c1bf7a9988b17b9c","CDI",35,0,0,"21-25","Marketing","F",1,55,9184
+"e178e16c7636a8436f96b26f09541e59ef0c3da6","CDI",35,0,1,"11-16","Consultant","F",0,69,4804
+"3a20c66c2a7953c0dfc19715b1c48a75eb999edd","CDI",35,0,0,"16-21","Commercial","H",1,54,10243
+"09492b00f0d2ad5686511e0f5cd9f020b7f4d719","CDI",24,0,1,"11-16","Consultant","H",2,67,2302
+"df95ca7e0a7f7befe016d0cce9028d4d8c66e764","CDI",35,1,1,"11-16","Compta Finances","F",0,55,2225
+"a05668589ff37c512a616b7c17d5c64c063a21c6","CDI",35,0,0,"6-11","Marketing","H",1,46,5318
+"3119cb8461d70b7b814ea9dddf758e08cc06ba26","CDI",35,0,1,"11-16","Compta Finances","H",0,53,13371
+"9e31a9eb51aac364f98f89d5962e4c7a4a2bd697","CDI",35,1,0,"11-16","Marketing","F",1,55,6298
+"16bdfcd0eb79577a78fc1535b555190873237d98","CDI",35,0,0,"16-21","Commercial","H",0,45,8080
+"180360b3dc38069307f801409fcafa234939ed3f","CDI",35,0,0,"11-16","RH","F",1,40,11189
+"516f4d0512933627b1c969bd5c4b6a10f205f33e","CDI",35,1,0,"21-25","Commercial","F",0,48,7947
+"f6861aa3224a856415da4e933fc0f861881b14c3","CDI",35,0,0,"0-6","Marketing","H",3,50,7887
+"16ec34162145b8d383f6ff79aa6753bde7b0fc69","CDI",24,0,0,"16-21","RH","F",0,43,5531
+"8fdeb9125126fbc9656038ed2e21f55688df6412","CDI",35,0,1,"21-25","R&D","F",2,63,4897
+"0ca0577179e46111e0a11680786b54d8930f7595","CDI",35,0,0,"16-21","Commercial","F",0,54,8889
+"4339cf172698771fa266d1b17f75e4257e984da1","CDI",35,0,0,"11-16","Compta Finances","H",0,60,5585
+"897dfbbde16146cfffab3a4cc26d1c6e287b3d10","CDD",35,,,"0-6","Compta Finances","F",1,64,2951
+"4c6b47a5307ce98bb7b5ea19ac1f2a7eee0b75f8","CDI",35,1,0,"6-11","RH","H",3,38,12609
+"ca05bb83dcc8601f1579b86631551c9fb104d4ef","CDI",35,0,0,"21-25","Marketing","F",3,54,5751
+"570b1ff2d3e35a73d5a106cfe06ad685f673f356","CDI",35,1,0,"21-25","Commercial","F",2,53,7774
+"16988298f36c6a023dfee1a5dc962dae1cc5c9ee","CDI",35,1,0,"21-25","Consultant","H",1,64,3055
+"374c105a7b6c63e13c0f5a6a277abe6e66c07d87","CDI",35,0,0,"21-25","Marketing","H",0,47,12326
+"4f86655ee0dca3e1b367a9cd79710cb8f1b556a3","CDI",35,0,0,"21-25","Commercial","H",1,44,4892
+"7ecf0bcf738ada8efe11bfd0aca082e5f96e7927","CDI",35,1,0,"6-11","Commercial","F",0,48,10169
+"dfe28fc9ea971342a1e973f38bb0bdc59ce611fd","CDI",35,0,1,"0-6","Commercial","H",0,41,9671
+"0be3a451adbcd4e70caf178250d9a5269363598e","CDI",35,0,1,"11-16","Compta Finances","F",0,60,11622
+"4acc6fea7ec9b447e7a57065f71f030de67b3b17","CDI",35,0,1,"21-25","R&D","H",1,66,8876
+"fcae020e45a7b61a5fa7502b94466c9e3135eb19","CDI",35,1,1,"21-25","Commercial","H",1,55,7169
+"4c0875c42a371cbed7dd068c003f9466e9803686","CDI",35,1,0,"11-16","Marketing","H",0,34,2037
+"bee5ee931e9d2d68914e5a8ee6315e0073682b29","CDI",28,1,1,"6-11","Consultant","H",2,56,7778
+"97522680526e970b2e2c0872bcfebf468aca955e","CDI",35,0,0,"21-25","Compta Finances","H",0,56,5387
+"39b01ee730ea8f7d8b4e6790a3a0412d43a3ea50","CDI",35,0,0,"21-25","RH","H",2,50,9163
+"247cfc9f04b3901a85ce1c92917125bd2699aef3","CDI",35,0,0,"11-16","Consultant","H",1,54,2901
+"14e2af92519e90cf6dec3e48637cd5abff2fc273","CDI",35,1,1,"11-16","Compta Finances","H",3,59,4686
+"defe78425dae0f6a97d08a78cce780f149ff0c56","CDI",35,0,1,"16-21","Commercial","H",1,42,12525
+"00182ee8c3b2ff1fd46edc1b257bc0d2d93d0138","CDI",35,0,1,"21-25","Marketing","F",1,50,5226
+"2e03cfc012af6da9986b44bda16c892f85e2a81b","CDI",35,0,0,"0-6","Compta Finances","F",3,45,9332
+"7843b5a5a05414e38217906b3ef4c8834e346432","CDI",35,1,0,"6-11","Commercial","H",2,52,10464
+"488991e13f05c62944f7de0c1390df4f629475f9","CDI",24,0,1,"11-16","Compta Finances","F",1,42,1070
+"f2b915a07638c7f7e460c2ea0902f715e6093dfe","CDI",35,1,1,"6-11","Commercial","F",2,45,3937
+"ee6c334aa3728b3177f133a3e246277f5fb7ef07","CDI",35,1,0,"11-16","Consultant","F",2,44,4931
+"e823ee63479266b7e6544957b9cb9f8da1eaa0ff","CDI",35,0,0,"16-21","RH","H",1,49,4945
+"e6eacec6fc7d3b20bb7249674251e2aa80b6494f","CDI",24,0,1,"0-6","Consultant","H",0,38,5707
+"6a0745850a21265d5ccac8322a4924f89e27d8d3","CDI",35,0,1,"16-21","Commercial","F",3,42,8076
+"af33ac35cae6cbe879a1b713e44580794863e20e","CDI",35,1,1,"11-16","Compta Finances","H",3,58,2128
+"e5fc6027cd5393e1b0112db8eeea8beebff8e8eb","CDI",35,0,1,"6-11","Consultant","H",2,60,7755
+"8922ecb3a6166638f15d1dfb7a50f5405bccc5a9","CDI",35,0,1,"0-6","Marketing","F",2,63,3931
+"168b913a9c88662d15df0b7cf1f6cab333f8755c","CDI",35,1,0,"11-16","RH","H",3,61,9442
+"2562ccaf20b56b9bac8bd28064b1a331ca412505","CDI",35,1,0,"0-6","Consultant","H",3,39,1948
+"def353fdff41b21346ff362068ae9aa3ce7ba76d","CDI",35,1,0,"16-21","RH","F",3,57,4087
+"b775c7798d4ba9ff38384f26961b8c508ebdff72","CDI",35,0,1,"6-11","Consultant","F",1,65,8444
+"2d2a3cde3f46f4fc4f6e1b2d07b10122af1e1164","CDI",35,1,1,"0-6","Commercial","F",1,61,3895
+"5ea3111f10903561c21248bcfbf68eec81676c30","CDI",35,0,1,"21-25","Commercial","H",3,53,6344
+"8129186baa489bf1d4a8ee2862dcb0508199c698","CDI",35,1,1,"11-16","Consultant","F",0,47,5937
+"f4d1ec63841486b332b71e00a9b69f9da81252e3","CDI",35,1,0,"6-11","RH","H",3,61,4269
+"4bb360098ef76012153ef49b55650875cc6b5bcc","CDD",35,,,"0-6","Compta Finances","F",1,33,4418
+"78259fd18fb013b9e22b4cb5b18df02a23f31077","CDI",24,1,0,"6-11","Marketing","F",0,57,7857
+"ee8b0540e5c5b8d20085987be32024feb6d97618","CDI",35,1,1,"16-21","Marketing","F",2,46,4749
+"2add52f413f4e439b67f6c52afa44bda17225692","CDI",35,1,1,"0-6","Consultant","F",2,55,2058
+"417e95d97f1c0e16e0923f06aaa83982d7b45d6d","CDD",35,,,"0-6","Marketing","F",1,52,3858
+"5e9e8b08f5cede790de20320f902d7b3e526bd70","CDI",35,1,1,"16-21","Consultant","H",1,62,9682
+"3f85d89f6ee16be81e5525cfd5263934767c1169","CDI",35,0,1,"6-11","Commercial","H",2,45,3039
+"e9df0aac29724b902dadb1940e55d4499fd253cc","CDI",35,1,0,"16-21","Marketing","H",0,47,3566
+"bbaf02eca49b21a221cff2aff78c4539a68a03fd","CDI",35,0,0,"11-16","Commercial","F",1,42,2843
+"8fa3addea0f33da5a4dc8c59533d1a074d2e3b20","CDI",35,0,0,"16-21","RH","H",0,44,9106
+"5d4f1ec26ce64d39a496445494ae7c89659f0378","CDI",35,1,0,"11-16","Consultant","F",1,40,6535
+"79dfe2d8775dacca1b65c1efea522475b14f7247","CDI",35,1,0,"6-11","Consultant","H",2,40,9906
+"b92149372c4fc2d28ac7cc39833fd2cd45dcbbd7","CDI",35,1,0,"6-11","Commercial","F",3,52,10961
+"d497cc4d526fe183f99805f22719bf8ede7547c8","CDI",35,1,1,"11-16","Consultant","F",2,55,2841
+"d91e2b86c03f91de64f56a698a5d358f4e7bad71","CDI",35,0,0,"6-11","R&D","H",1,39,10460
+"d870d6811d94f626d18b1ade28501d379965cb61","CDI",35,0,1,"21-25","Commercial","H",2,55,2660
+"c25d4ffb426af6101f98ffefa3ba0cbb98c925c6","CDI",35,1,1,"16-21","Consultant","H",2,53,9447
+"2a7217efb62b6d8103534145c733e9aa0d4954e5","CDI",35,0,1,"21-25","Compta Finances","F",1,67,10663
+"5c27feaa1c19afe41f33e700f6e5e83985c8bef3","CDD",35,,,"0-6","Marketing","F",1,57,2936
+"ef3f467f4e2a239a966faaf9e6c7561dba5b1195","CDI",35,0,1,"6-11","RH","H",0,36,8523
+"ed7e0db9b0f920ab8f51faa0b3df7c4ed3efbcaf","CDD",35,,,"0-6","Commercial","F",1,60,3660
+"c0106c3f33e4a0ddaa6eff5e772461d1cb5713f8","CDI",35,1,1,"6-11","RH","H",0,36,10847
+"c41988df6e47bda9b2e986ff092e5849e62ea6be","CDI",35,1,1,"11-16","RH","F",2,39,6270
+"52d5544ecf63e81ff66bf3b2ecd3790b6040bc97","CDI",35,1,0,"21-25","Commercial","F",1,46,6698
+"1a310ef1b3fdb583536fcb9c185d60aea3f73f31","CDI",35,1,1,"6-11","Consultant","H",1,59,10905
+"4f8a056eedd3039ea3ee810829fa044603c7d9ab","CDI",35,0,1,"6-11","Compta Finances","F",1,66,9104
+"ca60de65b8741847a0eb24adbee90d42bbd6db3c","CDI",35,0,1,"16-21","Compta Finances","H",1,44,1945
+"6fe4efa2c1f298f17dd92e94ce40ec76d526bc12","CDI",24,0,1,"6-11","Consultant","H",3,60,7083
+"d27b409a7bc191707c14868079d0022d77003d36","CDI",24,1,1,"0-6","Consultant","H",0,57,1266
+"20254493a6d3316f1c6e86f27d2048dd6b493f89","CDI",35,1,1,"0-6","Consultant","F",3,48,10512
+"4e1b3a13a47d11b88b7e952b32909503624a3abc","CDD",35,,,"0-6","Consultant","F",2,67,3276
+"c75df9449751ff4b3b9837b77fd683bf231cfea5","CDI",35,1,0,"0-6","R&D","F",1,42,8009
+"952ea9c508ce7b9231f8e4497babc36d094618a8","CDI",35,0,1,"6-11","Compta Finances","H",3,62,1980
+"73a8ec1fcb533f70a872993b161d244a1ae2d88c","CDI",35,1,1,"21-25","Marketing","H",2,53,4657
+"a5701927bdf1eed62e9f46db97c97890753db24f","CDD",35,,,"0-6","Commercial","F",3,52,3281
+"9e3ef7f969e018a5fd9df11a07d843af2db7c675","CDI",24,1,1,"21-25","Marketing","H",1,64,8279
+"2bb44a3028ba9301cae0558d516c87f49ef22e99","CDI",35,1,1,"6-11","R&D","F",1,52,10116
+"10396f816dde1a420b77cb4b31702c85199ed3c0","CDI",35,1,1,"0-6","Marketing","F",3,40,2088
+"b01ce0eac4c9e1ddc4df92fd43e62554a529c809","CDD",35,,,"0-6","Marketing","H",0,43,2089
+"0cc12ad8df045fa5201ace7d3b5be4b80ea804d2","CDI",35,1,0,"0-6","RH","H",1,58,5490
+"72727ee134c8d007d58451b1cd4f9f18a9ac1818","CDD",35,,,"0-6","Consultant","F",3,52,3485
+"10240b0997e204a9ffaf2e8e8b709cec243a142a","CDI",35,0,0,"16-21","Compta Finances","H",2,55,4162
+"35d3d9aabb3b5a514828e90d7c6d2edfd9a5fce1","CDI",35,1,0,"16-21","Consultant","F",1,51,6052
+"b1858ac0d6de24a0f17fe394a2ec25abb15bb85f","CDI",35,0,0,"16-21","Consultant","H",0,47,1949
+"b0ad031a2cc78da25f7c6d83c1e92c082ec5b2a5","CDI",35,1,1,"11-16","Compta Finances","H",3,56,11141
+"4ac13325e04f7f5632b3927b60d1f4fa85bbcb48","CDI",35,0,0,"6-11","Consultant","F",2,33,2567
+"1f8b49c8af35e40545f65c10656e568f3439c23b","CDI",35,1,0,"11-16","Commercial","H",0,63,11939
+"c3d1c575736808f8d213b270e177e5978e7e1019","CDI",35,0,0,"0-6","RH","F",0,45,7372
+"68341d9d4e89372081a5ec1fe5d2eaa2adeec932","CDI",35,1,1,"0-6","Compta Finances","F",1,66,8631
+"25c8f15252a64b4b44cc44be39fb24495eb71a84","CDI",35,0,0,"16-21","Commercial","H",2,50,9160
+"d96dd7ca11a7d86b87df0cadbaa0b8bd9f6113b3","CDI",35,1,0,"11-16","RH","H",1,67,5574
+"5270dcdb43adb742da93a2d84e4cfbcb95eb4164","CDI",28,0,1,"21-25","Consultant","H",0,51,2203
+"e2eea6944948a966d57c015b9c9d3c7a909d7e8d","CDI",35,0,0,"21-25","Consultant","H",1,48,4363
+"72f6f3ba8d39907258d49d0ff65a84c1bfb85a30","CDI",35,0,1,"21-25","RH","H",2,55,3894
+"cd648ba605b64be9a6cc3ab3b1756cc7f9597f0f","CDI",35,1,1,"6-11","Marketing","H",3,36,3628
+"fe8f8a75ed8498a13256ad53aac3ecc203aef2bc","CDI",35,1,1,"21-25","Marketing","H",1,54,6123
+"f59457f4c6918b4df97653e747b1adf8679cc871","CDI",35,0,1,"6-11","Commercial","F",2,65,3165
+"6c055938e903b2c0c3bc5600f30899111fadf2c3","CDI",24,1,1,"6-11","Consultant","H",0,57,1881
+"7b360aff58f2894f0737438c8439abbf53e240e3","CDI",35,0,1,"0-6","RH","H",2,37,4149
+"1172b9418942091bd879d42933eea89ed3ad587e","CDI",35,1,0,"6-11","RH","H",3,68,2934
+"7cd58b412f20f4d43d6f292983f13b9e2329c356","CDD",32,,,"0-6","Consultant","F",0,56,3020
+"70439329245cdd64d552a530eccc4588ba059973","CDI",35,1,1,"0-6","Compta Finances","F",0,36,2319
+"5c1ec341bf8d1b01ca10b8dbb40a8169f61bb8f6","CDI",35,0,1,"11-16","Marketing","H",2,64,9517
+"d02766edb335cf357fb62960bc44fb8aade72328","CDI",35,0,1,"0-6","R&D","H",3,65,11007
+"1e43db5abb9a7ab30afeaac9a972bfcfd54eb19b","CDI",35,1,1,"11-16","Commercial","F",0,55,4443
+"3922bd92bffb6f65a3252a22f464ae63ef2bcd98","CDI",35,0,0,"11-16","Consultant","H",1,54,2379
+"b4943b88e6152f586fdeb667752e9c5ec8ccd72a","CDI",35,1,0,"6-11","Consultant","F",1,52,7005
+"417a7867061858404abb881a4e69201d355743cb","CDI",35,0,1,"11-16","Compta Finances","F",2,68,9369
+"d648f5d86c7adb29b0c02ed26e9af68c78c1e655","CDI",35,0,0,"21-25","Consultant","F",1,68,3500
+"88d093964467323fc7d678c0fc9ea27d8962d792","CDI",35,1,1,"0-6","Consultant","F",3,53,2516
+"ecd5dceeea7816400cf24476e99b6d7003ebe4eb","CDI",35,0,0,"11-16","R&D","H",2,44,8543
+"c6234e692db23634b4fddbaaad784b7cb6f9b703","CDI",35,1,1,"21-25","Marketing","H",1,52,6787
+"49aa7874ce9b6ca4bb2c0d70443ef0ef7a9931d4","CDI",35,0,1,"11-16","Commercial","H",1,53,7621
+"4ddd1eedbbf97c47e28365cbe223a8c20608516e","CDI",35,0,1,"16-21","R&D","H",0,60,8922
+"cc1d496193ebdb3e46903f19f71819c92a16b6f7","CDI",24,1,1,"21-25","Commercial","F",3,59,7252
+"395c1fec4092868e4bb2688b4fa0c705bbe3e456","CDI",35,0,1,"16-21","Consultant","F",3,45,8186
+"449ddc073fa99f5571044194ca5fc329c73c1534","CDI",35,1,1,"0-6","RH","F",2,68,6019
+"faeeb716eb64b641b3d78b61664b41c706f249c6","CDI",35,0,0,"16-21","Compta Finances","H",2,44,3683
+"4f4e37db20e840953fd73784ba31e5f6834a12de","CDI",24,0,1,"6-11","Marketing","H",2,38,7592
+"ef1aeb71610d822eb705f602633d4a6e78c54bc3","CDI",24,0,1,"6-11","RH","F",3,68,4270
+"c25592b3c27f84f9f15df606418c4cd6287a4b92","CDI",35,0,1,"16-21","Marketing","H",0,47,12699
+"95ecfcff87a1a8f9bb50cdc8a0e7c8bb0ef86f54","CDI",35,0,0,"6-11","Commercial","H",0,55,7322
+"000b7df4ea4c2f5330f4798a96b9a1e43ef70d12","CDD",35,1,0,"0-6","R&D","H",0,40,3276
+"052423e5cb7ae56c87523fd684809041a4307760","CDI",35,1,0,"21-25","Consultant","H",3,60,1986
+"545979b606d3320a67afcb9d1a16ad5e17e0eeba","CDI",35,1,1,"11-16","RH","F",1,54,4780
+"988dee6377566d6f35511b5f59b768c680771b36","CDI",35,0,1,"6-11","Consultant","H",0,68,5972
+"cbde8916b06a9cce3255b0ea2d26a203a2a6a190","CDI",35,0,0,"21-25","Consultant","F",3,47,11157
